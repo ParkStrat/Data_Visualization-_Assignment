@@ -1,5 +1,5 @@
 # Data_Visualization_Assignment
-## Using Python to create a visually appealing, informative visualization
+### Using Python to create a visually appealing, informative visualization
 
 Task: Use a publically available data set of my chosing to create a visually appealing and infomative graphical representation from the data set.
 Purpose: Gain more experiance with and understanding of Python, Matploylib, and Seaborn for the data visulaization. 
