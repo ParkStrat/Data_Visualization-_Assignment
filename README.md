@@ -8,4 +8,4 @@
 
 **The visualizaiton:** I used the data to assess if there was a general geographic trend in life satisfaction or in other words, if certain areas of the world where "happier" than others. The chart below demonstrates that there are clearly reional differences in life satisfaction. However, this is likely simple correlation with no causation.
 
-![alt test](https://drive.google.com/file/d/1tUf1M1wZBpjitn_nDHRgtEPTh6z57iOa/view?usp=sharing)
+![Average Happiness by Region](https://user-images.githubusercontent.com/94806791/147024208-399b8a28-df0c-4ad4-9a6f-f692d747e333.png)
